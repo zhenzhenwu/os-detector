@@ -1,0 +1,21 @@
+{
+  "name": "os-detector",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "os-detector": "dist/os-detector.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node dist/os-detector.js",
+    "build": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.1.0",
+    "typescript": "^5.5.4"
+  }
+}
