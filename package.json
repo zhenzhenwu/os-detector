@@ -1,5 +1,5 @@
 {
-  "name": "os-detector",
+  "name": "@zhenzhenwu/os-detector",
   "version": "1.0.0",
   "description": "",
   "bin": {
