@@ -1,6 +1,6 @@
 {
   "name": "@brave-heart/os-detector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "bin": {
     "os-detector": "dist/os-detector.js"
