@@ -1,5 +1,5 @@
 {
-  "name": "wqa/os-detector",
+  "name": "@brave-heart/os-detector",
   "version": "1.0.0",
   "description": "",
   "bin": {
